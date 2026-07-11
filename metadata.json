@@ -1,0 +1,6 @@
+{
+  "name": "JJH Global Solutions",
+  "description": "Premium multi-sector portal for JJH Global Solutions, coordinating global HR Solutions, specialized college placements, accredited remote schooling pathways, and custom software architectures.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
